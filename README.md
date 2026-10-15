@@ -66,7 +66,7 @@ AttendanceApp/
 
 ### 1. 소스 받기
 ```bash
-git clone https://github.com/minsoyee/AttendanceApp.git
+git clone https://github.com/minsohee/AttendanceApp.git
 cd AttendanceApp
 open AttendanceApp.xcodeproj
 ```
